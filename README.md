@@ -2,10 +2,9 @@
 #### being  ***Software Developer*** is easy  it's like riding a bike except the bike is on fire  , you're on fire , everything is on fire and and you're in the middle of the desert .
 still struggling to graduate **university** 🙉
 
-Skills: **C++** / **Python**  and more in the upcoming months ↗💥
+Skills: **C++** / **Python** / **Rust**
 
 - 🔭 I’m currently working on nothing specific  
-- 🌱 I’m currently learning **JAVA** and **web development** 
 - 📫 How to reach me: hamzaouigroupe@gmail.com 
 - 😄 Pronouns: **Dead_by_20s** 
 
